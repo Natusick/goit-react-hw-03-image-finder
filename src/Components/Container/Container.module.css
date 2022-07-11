@@ -1,0 +1,10 @@
+.container {
+    width: 1170px;
+    margin: 15px;
+    align-items: center;
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: column;
+    align-content: center;
+    background-color: white;
+  }

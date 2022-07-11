@@ -1,0 +1,7 @@
+.list{
+    transition: 5000ms;
+
+    display: flex;
+    flex-wrap: wrap;
+    padding-left: 0px;
+}
