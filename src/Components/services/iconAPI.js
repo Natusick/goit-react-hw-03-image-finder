@@ -1,7 +1,7 @@
 import axios from 'axios';
 
 const API_URL = 'https://pixabay.com/api/';
-const API_KEY = '25738205-42a7db76025be689580da6194';
+const API_KEY = '25850383-0594824d414b581d9c15cc922'; 
 
 class getIconsApi {
   constructor() {

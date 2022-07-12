@@ -1,7 +1,7 @@
 import { Component } from 'react';
 import { ToastContainer } from 'react-toastify';
 import 'react-toastify/dist/ReactToastify.css';
-import getIconsApi from './Components/iconAPI';
+import getIconsApi from './Components/services/iconAPI';
 
 import Container from './Components/Container/Container';
 import Searchbar from './Components/Searchbar/Searchbar';
